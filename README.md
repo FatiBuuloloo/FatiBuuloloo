@@ -10,5 +10,5 @@
 
 ---
 ### 📝 Publications
-- **[ENHANCING LQ45 STOCK PRICE FORECASTING USING LSTM MODEL]** *Published in BAREKENG: Jurnal Ilmu Matematika dan Terapan* [📄 Read Article](https://ojs3.unpatti.ac.id/index.php/barekeng/article/view/18333) | [💻 Source Code]([https://github.com/[USERNAME-KAMU]/[NAMA-REPO-PROYEK]](https://github.com/FatiBuuloloo/One-Month-Candlestick-Forecasting-Banking-Mining-Stocks-in-LQ45_Scientific-Article))  
+- **[ENHANCING LQ45 STOCK PRICE FORECASTING USING LSTM MODEL]** *Published in BAREKENG: Jurnal Ilmu Matematika dan Terapan* [📄 Read Article](https://ojs3.unpatti.ac.id/index.php/barekeng/article/view/18333) | [💻 Source Code]((https://github.com/FatiBuuloloo/One-Month-Candlestick-Forecasting-Banking-Mining-Stocks-in-LQ45_Scientific-Article))  
 *Developed an LSTM-based architecture to forecast stock prices in the Energy and Banking sectors with high precision (MAPE < 2.5% and Opening Price accuracy < 1.26%).*
