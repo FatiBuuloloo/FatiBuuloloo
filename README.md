@@ -1,9 +1,5 @@
 ## Hi there, I'm Fati Buulolo 👋
 
-<!--
-**FatiBuuloloo/FatiBuuloloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ### About Me
 - 🎓 Mathematics Graduate @ [Universitas Negeri Medan]
 - 🔍 Aspiring Data Scientist | Deep Learning & Machine Learning
