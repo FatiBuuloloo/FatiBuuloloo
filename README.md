@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Open-source Data Science projects, specifically in Predictive Maintenance or Time-Series Analysis.
 - 🤔 I’m looking for help with Connecting with professionals in the Data Science industry for career mentorship and insights.
 - 💬 Ask me about anything
-- 📫 How to reach me: [Email](mailto:fatibuulolo2@yahoo.com) | [LinkedIn]((https://www.linkedin.com/in/fati-buulolo-7a9236391/)
+- 📫 How to reach me: [Email](mailto:fatibuulolo2@yahoo.com) | [LinkedIn](https://www.linkedin.com/in/fati-buulolo-7a9236391/)
 
 ---
 ### 📝 Publications
